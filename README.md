@@ -55,10 +55,13 @@ Once we go in as an administrator, we can press the next buttons:
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.0.PNG" width="400" height = "250"/>
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.1.PNG" width="400" height = "250"/>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.2.0.PNG" width="220" height = "250"/>
-<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.4.0.PNG" width="400" height = "250"/>
+<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.4.0.PNG" width="500" height = "250"/>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.6.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />

@@ -66,7 +66,13 @@ Once we go in as an administrator, we can press the next buttons:
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
+In Add Stock Menu we can see laptops, specs and the the connection between them by pressing (***Show all***) button.
+We can add a laptop by pressing (***Add Laptop***) and a spec by pressing (***Add Spec***). The connection between them is made by pressing (***Add Spec to Laptop***) button, where we need to introduce each spec and the model of the laptop.
 
+<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.3.0.PNG" width="400" height = "250"/>
+<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.3.4.PNG" width="500" height = "200"/>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
 

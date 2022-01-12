@@ -33,5 +33,7 @@ In the Search by filters Menu we can see ***laptops with what specs we want*** ,
 
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.7.0.PNG" width="500" height = "350"/>
 
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
 ### ***Administrator's functionalities***
 

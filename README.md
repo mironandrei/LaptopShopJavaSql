@@ -8,9 +8,8 @@ This application aims to maintain a shop with laptops. You can use the applicati
 
 If we don't have an account we can make one pressing the ***Register*** button, than we can come back to main page where we can log in.
 
-
-<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/2.0.PNG" width="400" height = "250"/>
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/1.0.PNG" width="400" height = "250"/>
+<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/2.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 

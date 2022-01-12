@@ -24,7 +24,7 @@ Once we go in, we can press the next buttons:
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-In the Show Stock Menu we can see all laptops pressing #***Show all Laptops***# and specs for what laptop we want by introducing the model of the laptop and press ***Show Spec for this model***.
+In the Show Stock Menu we can see all laptops pressing (***Show all Laptops***) and specs for what laptop we want by introducing the model of the laptop and press ***Show Spec for this model***.
 We can also make a order by introducing the model that we want and complete all of the fields, then press ***Add to Cart*** and press ***Order*** after that.
 If we don't want an order anymore, we can decline that by pressing ***Decline a command***, and here we have our orders. Now choose one and press ***Decline***.
 

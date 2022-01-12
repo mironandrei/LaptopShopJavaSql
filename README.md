@@ -29,7 +29,7 @@ We can also make a order by introducing the model that we want and complete all 
 If we don't want an order anymore, we can decline that by pressing (***Decline a command***), and here we have our orders. Now choose one and press (***Decline***).
 
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.1.PNG" width="400" height = "250"/>
-<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.6.0.PNG" width="350" height = "250"/>
+<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.6.0.PNG" width="250" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 

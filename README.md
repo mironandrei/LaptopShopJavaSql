@@ -14,17 +14,17 @@ If we don't have an account we can make one pressing the ***Register*** button, 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 Once we go in, we can press the next buttons:
-- ***Change Password*** change our password
-- ***Delete Account*** delete our account
-- ***Stock Verify*** verify where we can see the stock of the shop
-- ***Search by filters*** where we can search with more details for laptops
+- ***Change Password*** (change our password)
+- ***Delete Account*** (delete our account)
+- ***Stock Verify*** (verify where we can see the stock of the shop)
+- ***Search by filters*** (where we can search with more details for laptops)
 
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.0.PNG" width="400" height = "250"/>
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.1.0.PNG" width="250" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-In the Show Stock Menu we can see all laptops pressing ***Show all Laptops*** and specs for what laptop we want by introducing the model of the laptop and press ***Show Spec for this model***.
+In the Show Stock Menu we can see all laptops pressing #***Show all Laptops***# and specs for what laptop we want by introducing the model of the laptop and press ***Show Spec for this model***.
 We can also make a order by introducing the model that we want and complete all of the fields, then press ***Add to Cart*** and press ***Order*** after that.
 If we don't want an order anymore, we can decline that by pressing ***Decline a command***, and here we have our orders. Now choose one and press ***Decline***.
 

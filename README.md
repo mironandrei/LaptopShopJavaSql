@@ -41,10 +41,8 @@ In the Search by filters Menu we can see (***laptops with what specs we want***)
 
 ### ***Administrator's functionalities***
  
- If we want to go in as an administrator, we need the (***username: admin*** , ***password: parola*** and the ***passCode: 1234***).
+If we want to go in as an administrator, we need the (***username: admin*** , ***password: parola*** and the ***passCode: 1234***).
  
-<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.0.PNG" width="400" height = "250"/>
-
 Once we go in as an administrator, we can press the next buttons:
 - ***All of the Clients*** (see all of the clients that have an account)
 - ***Delete Client Account*** (delete a client account)
@@ -53,6 +51,8 @@ Once we go in as an administrator, we can press the next buttons:
 - ***See all the commands*** (we can see a list with all of the clients orders)
 - ***Statistics*** (Statistics about clients, orders and laptops)
 - ***Change Prices*** (Change the price for a product)
+
+<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 

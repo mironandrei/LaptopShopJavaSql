@@ -1,5 +1,7 @@
 ## ***LaptopShopJavaSql***
 
-This application aims to maintain a shop with laptops.
+### ***Description***
 
-You can be use the application as a client and as a administrator too using the first window.
+This application aims to maintain a shop with laptops. You can be use the application as a client and as an administrator too using the first window.
+<img align="middle" src = "./blob/main/ss/1.0.PNG" width="350" height = "330"/>
+

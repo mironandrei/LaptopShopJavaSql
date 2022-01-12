@@ -13,7 +13,11 @@ If we don't have an account we can make one pressing the ***Register*** button, 
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-Once we go in, we can change our password by pressing ***Change Password*** button, delete our account pressing ***Delete Account***, ***Stock Verify*** verify where we can see the stock of the shop and ***Search by filters*** where we can search with more details for laptops.
+Once we go in, we can press the next buttons:
+- ***Change Password*** change our password
+- ***Delete Account*** delete our account
+- ***Stock Verify*** verify where we can see the stock of the shop
+- ***Search by filters*** where we can search with more details for laptops
 
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.0.PNG" width="400" height = "250"/>
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.1.0.PNG" width="250" height = "250"/>

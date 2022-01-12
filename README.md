@@ -17,6 +17,7 @@ Once we go in, we can change our password by pressing ***Change Password*** butt
 
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.0.PNG" width="400" height = "250"/>
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.1.0.PNG" width="250" height = "250"/>
+<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.1.PNG" width="400" height = "250"/>
 
 

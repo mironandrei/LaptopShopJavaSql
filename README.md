@@ -27,5 +27,9 @@ If we don't want an order anymore, we can decline that by pressing ***Decline a 
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.1.PNG" width="400" height = "250"/>
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.6.0.PNG" width="350" height = "250"/>
 
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+In the Search by filters Menu we can see ***laptops with what specs we want*** , ***laptops between two prices*** and a list with ***the best-selling laptops*** , showing also the number of sales.
+
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.7.0.PNG" width="500" height = "350"/>
 

@@ -43,7 +43,9 @@ In the Search by filters Menu we can see (***laptops with what specs we want***)
 
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.0.PNG" width="400" height = "250"/>
 
-Once we go in, we can press the next buttons:
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+Once we go in as an administrator, we can press the next buttons:
 - ***Change Password*** (change our password)
 - ***Delete Account*** (delete our account)
 - ***Stock Verify*** (verify where we can see the stock of the shop)

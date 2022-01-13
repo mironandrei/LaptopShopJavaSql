@@ -103,7 +103,7 @@ We can add a laptop by pressing (***Add Laptop***) and a spec by pressing (***Ad
 ***Add Spec to Laptop Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.3.4.PNG" width="500" height = "200"/>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 In See all the commands Menu we can see all of the clients orders and we can delete the order that we want by pressing (***Delete Command***).
 Last we can see Statistics, like (***Clients with no order, or at least one order***), (***The most valuable laptop or the lowest depending on category(office or gaming)***), (***Clients who bought the selected laptop***) and (***The month with the most orders made***).

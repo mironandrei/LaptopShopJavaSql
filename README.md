@@ -11,8 +11,8 @@ If we don't have an account we can make one pressing the (***Register***) button
 
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/1.0.PNG" width="400" height = "250"/>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+***Register Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/2.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />

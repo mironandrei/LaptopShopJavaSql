@@ -122,3 +122,10 @@ That is the application, but if you want to see more details, you can access the
 
 ### ***How to use***
 
+First of all, the application was made in ***[Eclipse Mars 2](https://www.eclipse.org/downloads/packages/release/mars/2)*** with ***Java 8***, using ***[Java Swing WindowBuilder](https://www.eclipse.org/windowbuilder/download.php)***, and the connection to the database was made by adding in the external libraryes ***[sqljdbc42.jar](https://github.com/mironandrei/LaptopShopJavaSql/blob/main/sqljdbc42.jar)***. You also need to import ***[rs2xml.jar](https://github.com/mironandrei/LaptopShopJavaSql/blob/main/rs2xml.jar)*** to the project, because I used that to populate the tables in the application.
+
+The database was made in ***[Microsoft SQL Server 2014 Management Studio](https://www.microsoft.com/en-us/download/details.aspx?id=42299)*** and here I uploaded the backup of the database (here). Type ***ALTER AUTHORIZATION ON DATABASE::ProiectBDMiron TO sa*** in a query and execute if you want to see the database diagram.
+
+If you want to make sure that the connection is gonna work, go in window to ***Start*** -> ***Computer Management*** -> ***Services and Applications*** -> ***SQL Server Configuration Manager*** -> ***SQL Server Network Configurations*** and go to ***TCP/IP*** -> ***IP Addresses*** and down at ***IPAII*** (***TCP Dynamic Ports(blank) and TCP Port(1433)***).  After that, go to ***Windows Firewall Advanced Settings*** and add new rules for port 1433 at ***Inbound Rules*** and ***Outbound Rules***.
+
+After you have all of that you can run the project using ***Eclipse Mars 2***.

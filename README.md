@@ -9,6 +9,7 @@ This application aims to maintain a shop with laptops. You can use the applicati
 
 If we don't have an account we can make one pressing the (***Register***) button, than we can come back to main page where we can log in.
 
+***Login Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/1.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -23,10 +24,12 @@ Once we go in, we can press the next buttons:
 - ***Stock Verify*** (verify where we can see the stock of the shop)
 - ***Search by filters*** (where we can search with more details for laptops)
 
+***Client Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
+***Change Password Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.1.0.PNG" width="250" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -35,16 +38,19 @@ In the Show Stock Menu we can see all laptops pressing (***Show all Laptops***) 
 We can also make a order by introducing the model that we want and complete all of the fields, then press (***Add to Cart***) and press (***Order***) after that.
 If we don't want an order anymore, we can decline that by pressing (***Decline a command***), and here we have our orders. Now choose one and press (***Decline***).
 
+***Show Stock Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.1.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.6.0.PNG" width="250" height = "250"/>
+***Decline Command Menu***<br />
+<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.6.0.PNG" width="300" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 In the Search by filters Menu we can see (***laptops with what specs we want***) , (***laptops between two prices***) and a list with (***the best-selling laptops***) , showing also the number of sales.
 
+***Search by filters Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.3.7.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -62,21 +68,27 @@ Once we go in as an administrator, we can press the next buttons:
 - ***Statistics*** (Statistics about clients, orders and laptops)
 - ***Change Prices*** (Change the price for a product)
 
+***Admin Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+***Show Clients Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.1.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.2.0.PNG" width="220" height = "250"/>
+***Delete Client Account Menu***<br />
+<img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.2.0.PNG" width="240" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
+***Delete Stock Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.4.0.PNG" width="500" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
+***Change Prices Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.6.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -84,10 +96,12 @@ Once we go in as an administrator, we can press the next buttons:
 In Add Stock Menu we can see laptops, specs and the the connection between them by pressing (***Show all***) button.
 We can add a laptop by pressing (***Add Laptop***) and a spec by pressing (***Add Spec***). The connection between them is made by pressing (***Add Spec to Laptop***) button, where we need to introduce each spec and the model of the laptop.
 
+***Add Stock Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.3.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
+***Add Spec to Laptop Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.3.4.PNG" width="500" height = "200"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -95,10 +109,12 @@ We can add a laptop by pressing (***Add Laptop***) and a spec by pressing (***Ad
 In See all the commands Menu we can see all of the clients orders and we can delete the order that we want by pressing (***Delete Command***).
 Last we can see Statistics, like (***Clients with no order, or at least one order***), (***The most valuable laptop or the lowest depending on category(office or gaming)***), (***Clients who bought the selected laptop***) and (***The month with the most orders made***).
 
+***Show all commands Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.5.0.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
+***Statistics Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/6.7.PNG" width="400" height = "250"/>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />

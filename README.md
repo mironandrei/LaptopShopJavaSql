@@ -120,6 +120,5 @@ Last we can see Statistics, like (***Clients with no order, or at least one orde
 
 That is the application, but if you want to see more details, you can access the documentation here: ***[MironShopDocumentation](https://github.com/mironandrei/LaptopShopJavaSql/blob/main/MironShopDocumentation.pdf)***
 
-
-
+### ***How to use***
 

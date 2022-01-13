@@ -27,7 +27,7 @@ Once we go in, we can press the next buttons:
 ***Client Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.0.PNG" width="400" height = "250"/>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ***Change Password Menu***<br />
 <img align="left" src = "https://github.com/mironandrei/LaptopShopJavaSql/blob/main/ss/3.1.0.PNG" width="250" height = "250"/>

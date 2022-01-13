@@ -2,7 +2,7 @@
 
 ### ***Description***
 
-When you read this README, please open the large window, because is seated properly.
+When you read this README, please open the large window from the folder, because is seated properly.
 This application aims to maintain a shop with laptops. You can use the application as a client and as an administrator too.
 
 ### ***Client's functionalities***
